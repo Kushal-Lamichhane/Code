@@ -1,0 +1,90 @@
+.back{
+    background-color: #0a0a23;
+    width: 100vw;
+    height: 100vw;
+}
+.nav {
+    color: #fff;
+    font-weight: bolder;
+    padding-top: 50px;
+    padding-bottom: 25px;
+    background-color: #0a0a1a
+}
+.Ghar{
+    margin-left: 500px;
+}
+.Ghar:hover{
+    color: #00d9ff;
+}
+.Barema{
+    margin-left: 110px;
+    margin-top: 20px;
+}
+.Barema:hover{
+    color: #00d9ff;
+}
+.Sewa{
+    margin-left: 120px;
+}
+.Sewa:hover{
+    color: #00d9ff;
+}
+.Port{
+    padding-left: 100px;
+}
+.Port:hover{
+    color: #00d9ff;
+}
+.Not{
+    margin-left: 101px;
+}
+.Not:hover{
+    color: #00d9ff;
+}
+.Fone{
+    margin-left: 50px;
+}
+.Fone:hover{
+    color: #00d9ff;
+}
+h1,h2,.hi{
+    margin: 5px 0;
+}
+h2{
+    color: #fff;
+    padding-left: 100px;
+}
+h1{
+    color: #fff;
+    padding-left: 100px;
+    font-size: 55px;
+}
+.hi{
+    padding-left: 100px;
+    color: #fff;
+}
+
+p{
+    padding-left: 100px;
+    color: #fff;
+}
+.Socials{
+    color: #00d9ff;
+    padding-left: 100px;
+}
+.Hello{
+    width: 1px;
+}
+.fa-facebook{
+    font-size: 50px;
+    padding-left: 100px;
+    margin-top: 25px;
+}
+.fa-instagram{
+    font-size: 50px;
+    margin-left: 500px;
+}
+.fa-tiktok{
+    font-size: 50px;
+    margin-left: 500px;
+}
